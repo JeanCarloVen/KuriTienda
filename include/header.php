@@ -16,9 +16,9 @@
                 <li><a href="">Departamentos</a>
                     <ul>
                         <li>
-                            <li><a href="departamentos/pelis.php">Películas</a></li>
-                            <li><a href="departamentos/libros.php">Libros</a></li>
-                            <li><a href="departamentos/mano.php">Hecho a mano</a></li>
+                            <li><a href="../principal/pelis.php">Películas</a></li>
+                            <li><a href="../principal/libros.php">Libros</a></li>
+                            <li><a href="../principal/mano.php">Hecho a mano</a></li>
                         </li>
                     </ul>
                 </li>
